@@ -35,6 +35,8 @@
 
 ## Java 
 
+- [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - Modular Async/Sync/Reactive Twitch API Client / IRC Client
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
 - [Exceptionflug/protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord protocol framework supporting items
 - [HyperaOfficial/UltraStaffChat](https://github.com/HyperaOfficial/UltraStaffChat) - A 100% Customizable StaffChat Plugin for BungeeCord!
