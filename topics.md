@@ -6,6 +6,7 @@
 ## Contents
 
 - [algorithm](#algorithm)
+- [api](#api)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -19,7 +20,9 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [gradle](#gradle)
 - [hacktoberfest](#hacktoberfest)
+- [java](#java)
 - [javascript](#javascript)
 - [js](#js)
 - [language](#language)
@@ -35,6 +38,10 @@
 ## algorithm 
 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
+
+## api 
+
+- [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - Modular Async/Sync/Reactive Twitch API Client / IRC Client
 
 ## automation 
 
@@ -93,11 +100,22 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
+## gradle 
+
+- [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - Modular Async/Sync/Reactive Twitch API Client / IRC Client
+
 ## hacktoberfest 
 
+- [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - Modular Async/Sync/Reactive Twitch API Client / IRC Client
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
+
+## java 
+
+- [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - Modular Async/Sync/Reactive Twitch API Client / IRC Client
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 
 ## javascript 
 
@@ -123,6 +141,7 @@
 
 ## minecraft 
 
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [HyperaOfficial/UltraStaffChat](https://github.com/HyperaOfficial/UltraStaffChat) - A 100% Customizable StaffChat Plugin for BungeeCord!
 - [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers.
 
