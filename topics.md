@@ -141,6 +141,7 @@
 
 ## minecraft 
 
+- [rutgerkok/BlockLocker](https://github.com/rutgerkok/BlockLocker) - Protect chests, doors and other blocks in Minecraft from being opened using protection signs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [HyperaOfficial/UltraStaffChat](https://github.com/HyperaOfficial/UltraStaffChat) - A 100% Customizable StaffChat Plugin for BungeeCord!
 - [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers.
