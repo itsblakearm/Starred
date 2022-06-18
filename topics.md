@@ -120,6 +120,7 @@
 
 ## java 
 
+- [Oheers/EvenMoreFish](https://github.com/Oheers/EvenMoreFish) - An advanced fishing plugin based on MoreFish, created 2 years after its last update.
 - [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - Modular Async/Sync/Reactive Twitch API Client / IRC Client
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 
