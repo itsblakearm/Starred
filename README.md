@@ -70,6 +70,7 @@
 
 ## Others 
 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
 
 ## Python 
