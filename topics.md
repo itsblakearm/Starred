@@ -167,6 +167,7 @@
 
 ## others 
 
+- [itsblakearm/Chatting](https://github.com/itsblakearm/Chatting) - A chat application made strictly from Go.
 - [dmulloy2/ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit.
 - [devJimmyboy/Chatting](https://github.com/devJimmyboy/Chatting) - Twitch Chat App that focuses on easily sending messages.
 - [twitchdev/channel-points-node-sample](https://github.com/twitchdev/channel-points-node-sample) - 
