@@ -34,6 +34,7 @@
 
 ## Go 
 
+- [itsblakearm/Chatting](https://github.com/itsblakearm/Chatting) - A chat application made strictly from Go.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
 - [golang/go](https://github.com/golang/go) - The Go programming language
