@@ -35,6 +35,7 @@
 - [others](#others)
 - [python](#python)
 - [rust](#rust)
+- [server](#server)
 - [windows](#windows)
 
 ## algorithm 
@@ -155,6 +156,7 @@
 
 ## minecraft 
 
+- [AlessioDP/Parties](https://github.com/AlessioDP/Parties) - Party manager plugin for your Minecraft server!
 - [YouHaveTrouble/minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft server optimization guide
 - [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers and proxies.
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
@@ -202,6 +204,10 @@
 
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+## server 
+
+- [AlessioDP/Parties](https://github.com/AlessioDP/Parties) - Party manager plugin for your Minecraft server!
 
 ## windows 
 
