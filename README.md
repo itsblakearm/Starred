@@ -41,6 +41,7 @@
 
 ## Java 
 
+- [AlessioDP/Parties](https://github.com/AlessioDP/Parties) - Party manager plugin for your Minecraft server!
 - [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers and proxies.
 - [Oheers/EvenMoreFish](https://github.com/Oheers/EvenMoreFish) - An advanced fishing plugin based on MoreFish, created 2 years after its last update.
 - [dmulloy2/ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit.
