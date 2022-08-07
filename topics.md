@@ -161,7 +161,7 @@
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [AlessioDP/Parties](https://github.com/AlessioDP/Parties) - Party manager plugin for your Minecraft server!
 - [YouHaveTrouble/minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft server optimization guide
-- [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers and proxies.
+- [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies.
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
 - [rutgerkok/BlockLocker](https://github.com/rutgerkok/BlockLocker) - Protect chests, doors and other blocks in Minecraft from being opened using protection signs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
