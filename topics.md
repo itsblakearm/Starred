@@ -165,7 +165,7 @@
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
 - [rutgerkok/BlockLocker](https://github.com/rutgerkok/BlockLocker) - Protect chests, doors and other blocks in Minecraft from being opened using protection signs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
-- [HyperaOfficial/UltraStaffChat](https://github.com/HyperaOfficial/UltraStaffChat) - A 100% Customizable StaffChat Plugin for BungeeCord!
+- [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A 100% Customizable StaffChat Plugin for BungeeCord!
 - [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers.
 
 ## nodejs 
