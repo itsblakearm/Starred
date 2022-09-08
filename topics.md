@@ -15,6 +15,7 @@
 - [cli](#cli)
 - [compiler](#compiler)
 - [cpp](#cpp)
+- [design](#design)
 - [discord](#discord)
 - [finance](#finance)
 - [git](#git)
@@ -34,6 +35,7 @@
 - [nodejs](#nodejs)
 - [others](#others)
 - [python](#python)
+- [reactjs](#reactjs)
 - [rust](#rust)
 - [server](#server)
 - [windows](#windows)
@@ -80,6 +82,10 @@
 ## cpp 
 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## design 
+
+- [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
 
 ## discord 
 
@@ -204,6 +210,10 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [areed1192/python-trading-robot](https://github.com/areed1192/python-trading-robot) - A trading robot, that can submit basic orders in an automated fashion using the TD API.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+
+## reactjs 
+
+- [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
 
 ## rust 
 
