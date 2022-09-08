@@ -63,6 +63,7 @@
 
 ## JavaScript 
 
+- [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
 - [twitchdev/channel-points-node-sample](https://github.com/twitchdev/channel-points-node-sample) - 
 - [twitchdev/authentication-node-sample](https://github.com/twitchdev/authentication-node-sample) - 
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
