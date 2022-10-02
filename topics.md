@@ -131,12 +131,14 @@
 - [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - Modular Async/Sync/Reactive Twitch API Client / IRC Client
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
+- [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) - Chat client for https://twitch.tv
 - [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A 100% Customizable StaffChat Plugin for BungeeCord!
 - [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 
 ## java 
 
+- [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [Oheers/EvenMoreFish](https://github.com/Oheers/EvenMoreFish) - An advanced fishing plugin based on MoreFish, created 2 years after its last update.
 - [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - Modular Async/Sync/Reactive Twitch API Client / IRC Client
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
@@ -191,7 +193,6 @@
 - [twitchdev/authentication-node-sample](https://github.com/twitchdev/authentication-node-sample) - 
 - [devJimmyboy/pokesmash](https://github.com/devJimmyboy/pokesmash) - Pokemon Smash or Pass - For Everyone, not just creators.
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
-- [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) - Chat client for https://twitch.tv
 - [helium/blockchain-core](https://github.com/helium/blockchain-core) - 
 - [helium/miner](https://github.com/helium/miner) - Miner for the helium blockchain
 - [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
