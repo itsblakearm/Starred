@@ -64,6 +64,7 @@
 
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
+- [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
 ## c 
 
@@ -91,6 +92,7 @@
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
+- [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
 ## finance 
 
@@ -212,6 +214,7 @@
 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [areed1192/python-trading-robot](https://github.com/areed1192/python-trading-robot) - A trading robot, that can submit basic orders in an automated fashion using the TD API.
+- [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
 ## reactjs 
 
