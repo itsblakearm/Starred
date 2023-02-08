@@ -34,6 +34,7 @@
 - [minecraft](#minecraft)
 - [nodejs](#nodejs)
 - [others](#others)
+- [powershell](#powershell)
 - [python](#python)
 - [reactjs](#reactjs)
 - [rust](#rust)
@@ -209,6 +210,10 @@
 - [FrankerFaceZ/FrankerFaceZ](https://github.com/FrankerFaceZ/FrankerFaceZ) - The Twitch Enhancement Suite. Get custom emotes and tons of new features you'll never want to go without.
 - [gronnmann/CoinFlipper](https://github.com/gronnmann/CoinFlipper) - 50/50 chance. Winner takes everything. Do you dare?
 - [CheatBreaker/CheatBreakerAPI](https://github.com/CheatBreaker/CheatBreakerAPI) - An internal first iteration of the CheatBreaker Bukkit API. This API was used for many CheatBreaker features on MineHQ/Ultra, such as teammate waypoint markers, voice chat, the enabling/disabling of s
+
+## powershell 
+
+- [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 
 ## python 
 
