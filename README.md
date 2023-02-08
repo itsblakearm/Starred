@@ -12,6 +12,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -79,6 +80,10 @@
 - [YouHaveTrouble/minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft server optimization guide
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
+
+## PowerShell 
+
+- [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 
 ## Python 
 
