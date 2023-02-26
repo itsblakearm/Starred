@@ -64,7 +64,7 @@
 ## bot 
 
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
+- [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
 ## c 
@@ -92,7 +92,7 @@
 
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
+- [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
 ## finance 
@@ -135,7 +135,7 @@
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A 100% Customizable StaffChat Plugin for BungeeCord!
-- [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
+- [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 
 ## java 
@@ -149,11 +149,11 @@
 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
+- [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
 
 ## js 
 
-- [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
+- [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
 
 ## language 
 
