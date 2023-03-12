@@ -12,6 +12,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
+- [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
@@ -81,6 +82,10 @@
 - [YouHaveTrouble/minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft server optimization guide
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
+
+## PHP 
+
+- [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
 
 ## PowerShell 
 
