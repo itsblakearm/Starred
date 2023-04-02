@@ -68,7 +68,6 @@
 - [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
 - [twitchdev/channel-points-node-sample](https://github.com/twitchdev/channel-points-node-sample) - 
 - [twitchdev/authentication-node-sample](https://github.com/twitchdev/authentication-node-sample) - 
-- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
 - [night/betterttv](https://github.com/night/betterttv) - BetterTTV enhances Twitch with new features, emotes, and more.
@@ -110,6 +109,7 @@
 
 - [devJimmyboy/Chatting](https://github.com/devJimmyboy/Chatting) - Twitch Chat App that focuses on easily sending messages.
 - [devJimmyboy/pokesmash](https://github.com/devJimmyboy/pokesmash) - Pokemon Smash or Pass - For Everyone, not just creators.
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 
