@@ -8,8 +8,6 @@
 - [algorithm](#algorithm)
 - [api](#api)
 - [automation](#automation)
-- [awesome](#awesome)
-- [awesome-list](#awesome-list)
 - [bot](#bot)
 - [c](#c)
 - [cli](#cli)
@@ -52,14 +50,6 @@
 ## automation 
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
-## awesome 
-
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-
-## awesome-list 
-
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## bot 
 
