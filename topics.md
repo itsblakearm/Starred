@@ -202,7 +202,7 @@
 - [helium/miner](https://github.com/helium/miner) - Miner for the helium blockchain
 - [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
-- [Exceptionflug/protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord protocol framework supporting items
+- [Exceptionflug/protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord / Velocity protocol framework supporting items
 - [PaperMC/Travertine](https://github.com/PaperMC/Travertine) - Waterfall with 1.7 support
 - [iSach/UltraCosmetics](https://github.com/iSach/UltraCosmetics) - Lightweight, Fun and Easy-to-Use Spigot Cosmetics plugin. (Gadgets, etc)
 - [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - "That" TAB plugin.
