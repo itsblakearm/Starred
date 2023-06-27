@@ -59,7 +59,7 @@
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
 - [Exceptionflug/protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord / Velocity protocol framework supporting items
-- [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A 100% Customizable StaffChat Plugin for BungeeCord!
+- [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
 - [iSach/UltraCosmetics](https://github.com/iSach/UltraCosmetics) - Lightweight, Fun and Easy-to-Use Spigot Cosmetics plugin. (Gadgets, etc)
 - [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - "That" TAB plugin.
 - [LunarClient/BukkitImpl](https://github.com/LunarClient/BukkitImpl) - A Bukkit plugin that makes Lunar Client integration easy
