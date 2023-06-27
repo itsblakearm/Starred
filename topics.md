@@ -134,7 +134,7 @@
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A 100% Customizable StaffChat Plugin for BungeeCord!
+- [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
 - [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 
@@ -177,7 +177,7 @@
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
 - [rutgerkok/BlockLocker](https://github.com/rutgerkok/BlockLocker) - Protect chests, doors and other blocks in Minecraft from being opened using protection signs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
-- [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A 100% Customizable StaffChat Plugin for BungeeCord!
+- [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
 - [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers.
 
 ## nodejs 
