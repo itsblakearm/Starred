@@ -12,6 +12,7 @@
 - [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -78,6 +79,10 @@
 - [night/betterttv](https://github.com/night/betterttv) - BetterTTV enhances Twitch with new features, emotes, and more.
 - [FrankerFaceZ/FrankerFaceZ](https://github.com/FrankerFaceZ/FrankerFaceZ) - The Twitch Enhancement Suite. Get custom emotes and tons of new features you'll never want to go without.
 
+## Jupyter Notebook 
+
+- [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
+
 ## Others 
 
 - [microsoft/Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool) - A tool to wrap Win32 App and then it can be uploaded to Intune
@@ -85,7 +90,6 @@
 - [TaranVH/LOGOS](https://github.com/TaranVH/LOGOS) - (NO CONTRIBUTIONS ACCEPTED) High resolution, transparent, accurate logos can be hard to find. Here are the ones I've collected over the years.
 - [YouHaveTrouble/minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft server optimization guide
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
 
 ## PHP 
 
