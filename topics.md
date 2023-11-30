@@ -206,8 +206,6 @@
 - [PaperMC/Travertine](https://github.com/PaperMC/Travertine) - Waterfall with 1.7 support
 - [iSach/UltraCosmetics](https://github.com/iSach/UltraCosmetics) - Lightweight, Fun and Easy-to-Use Spigot Cosmetics plugin. (Gadgets, etc)
 - [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - "That" TAB plugin.
-- [LunarClient/BukkitImpl](https://github.com/LunarClient/BukkitImpl) - A Bukkit plugin that makes Lunar Client integration easy
-- [LunarClient/BukkitAPI](https://github.com/LunarClient/BukkitAPI) - Bukkit API for interacting with Lunar Client
 - [night/betterttv](https://github.com/night/betterttv) - BetterTTV enhances Twitch with new features, emotes, and more.
 - [FrankerFaceZ/FrankerFaceZ](https://github.com/FrankerFaceZ/FrankerFaceZ) - The Twitch Enhancement Suite. Get custom emotes and tons of new features you'll never want to go without.
 - [gronnmann/CoinFlipper](https://github.com/gronnmann/CoinFlipper) - 50/50 chance. Winner takes everything. Do you dare?
