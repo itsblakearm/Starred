@@ -63,8 +63,6 @@
 - [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
 - [iSach/UltraCosmetics](https://github.com/iSach/UltraCosmetics) - Lightweight, Fun and Easy-to-Use Spigot Cosmetics plugin. (Gadgets, etc)
 - [NEZNAMY/TAB](https://github.com/NEZNAMY/TAB) - "That" TAB plugin.
-- [LunarClient/BukkitImpl](https://github.com/LunarClient/BukkitImpl) - A Bukkit plugin that makes Lunar Client integration easy
-- [LunarClient/BukkitAPI](https://github.com/LunarClient/BukkitAPI) - Bukkit API for interacting with Lunar Client
 - [gronnmann/CoinFlipper](https://github.com/gronnmann/CoinFlipper) - 50/50 chance. Winner takes everything. Do you dare?
 - [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers.
 - [CheatBreaker/CheatBreakerAPI](https://github.com/CheatBreaker/CheatBreakerAPI) - An internal first iteration of the CheatBreaker Bukkit API. This API was used for many CheatBreaker features on MineHQ/Ultra, such as teammate waypoint markers, voice chat, the enabling/disabling of s
