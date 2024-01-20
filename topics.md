@@ -136,7 +136,6 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
 - [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
-- [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 
 ## java 
 
