@@ -127,6 +127,7 @@
 
 ## hacktoberfest 
 
+- [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [YouHaveTrouble/minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft server optimization guide
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
@@ -139,6 +140,7 @@
 
 ## java 
 
+- [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [Oheers/EvenMoreFish](https://github.com/Oheers/EvenMoreFish) - An advanced fishing plugin based on MoreFish, created 2 years after its last update.
 - [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - Modular Async/Sync/Reactive Twitch API Client / IRC Client
@@ -169,6 +171,8 @@
 
 ## minecraft 
 
+- [nerdsinspace/nocom-explanation](https://github.com/nerdsinspace/nocom-explanation) - block game military grade radar
+- [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [AlessioDP/Parties](https://github.com/AlessioDP/Parties) - Party manager plugin for your Minecraft server!
 - [YouHaveTrouble/minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft server optimization guide
@@ -185,8 +189,8 @@
 
 ## others 
 
+- [nerdsinspace/nocomment-master](https://github.com/nerdsinspace/nocomment-master) - block game military grade radar
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-- [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop 
 - [microsoft/Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool) - A tool to wrap Win32 App and then it can be uploaded to Intune
 - [integrations/microsoft-teams](https://github.com/integrations/microsoft-teams) - Bringing your code and work to the conversations you care about with the GitHub and Microsoft integration
 - [TaranVH/LOGOS](https://github.com/TaranVH/LOGOS) - (NO CONTRIBUTIONS ACCEPTED) High resolution, transparent, accurate logos can be hard to find. Here are the ones I've collected over the years.
