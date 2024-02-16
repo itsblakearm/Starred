@@ -53,6 +53,7 @@
 
 ## Java 
 
+- [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [nerdsinspace/nocomment-master](https://github.com/nerdsinspace/nocomment-master) - block game military grade radar
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [AlessioDP/Parties](https://github.com/AlessioDP/Parties) - Party manager plugin for your Minecraft server!
