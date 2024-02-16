@@ -123,6 +123,7 @@
 
 ## gradle 
 
+- [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - Modular Async/Sync/Reactive Twitch API Client / IRC Client
 
 ## hacktoberfest 
@@ -140,6 +141,7 @@
 
 ## java 
 
+- [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [Oheers/EvenMoreFish](https://github.com/Oheers/EvenMoreFish) - An advanced fishing plugin based on MoreFish, created 2 years after its last update.
@@ -171,6 +173,7 @@
 
 ## minecraft 
 
+- [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [nerdsinspace/nocom-explanation](https://github.com/nerdsinspace/nocom-explanation) - block game military grade radar
 - [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
