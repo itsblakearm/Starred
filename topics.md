@@ -31,6 +31,7 @@
 - [language](#language)
 - [linux](#linux)
 - [macos](#macos)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [nodejs](#nodejs)
 - [others](#others)
@@ -171,6 +172,10 @@
 
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 
+## microsoft 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+
 ## minecraft 
 
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
@@ -243,6 +248,7 @@
 
 ## windows 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 
