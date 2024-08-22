@@ -12,6 +12,7 @@
 - [awesome-list](#awesome-list)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
 - [compiler](#compiler)
 - [cpp](#cpp)
@@ -69,6 +70,10 @@
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
 ## c 
+
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+
+## c-plus-plus 
 
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 
@@ -137,7 +142,7 @@
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
+- [hyperadev/UltraStaffChat](https://github.com/hyperadev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
 - [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
 
 ## java 
@@ -188,7 +193,7 @@
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
 - [rutgerkok/BlockLocker](https://github.com/rutgerkok/BlockLocker) - Protect chests, doors and other blocks in Minecraft from being opened using protection signs
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-- [HyperaDev/UltraStaffChat](https://github.com/HyperaDev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
+- [hyperadev/UltraStaffChat](https://github.com/hyperadev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
 - [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers.
 
 ## nodejs 
