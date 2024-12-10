@@ -15,6 +15,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -97,6 +98,10 @@
 - [TaranVH/LOGOS](https://github.com/TaranVH/LOGOS) - (NO CONTRIBUTIONS ACCEPTED) High resolution, transparent, accurate logos can be hard to find. Here are the ones I've collected over the years.
 - [YouHaveTrouble/minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft server optimization guide
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## PowerShell 
+
+- [danielsollondon/azvmimagebuilder](https://github.com/danielsollondon/azvmimagebuilder) - Azure VM Image Builder
 
 ## Python 
 
