@@ -91,6 +91,7 @@
 
 ## Others 
 
+- [Azure/WindowsVMAgent](https://github.com/Azure/WindowsVMAgent) - 
 - [nerdsinspace/nocom-explanation](https://github.com/nerdsinspace/nocom-explanation) - block game military grade radar
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [microsoft/Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool) - A tool to wrap Win32 App and then it can be uploaded to Intune
