@@ -64,7 +64,7 @@
 - [dmulloy2/ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit.
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://www.spigotmc.org/resources/13932/
 - [rutgerkok/BlockLocker](https://github.com/rutgerkok/BlockLocker) - Protect chests, doors and other blocks in Minecraft from being opened using protection signs
-- [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - Modular Async/Sync/Reactive Twitch API Client / IRC Client
+- [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - A JVM library for all Twitch APIs, including Chat, Helix, and EventSub (webhook/websocket/conduit). It includes advanced features for large-scale apps such as connection pooling, rate-limiting, and mo
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [java-deobfuscator/deobfuscator](https://github.com/java-deobfuscator/deobfuscator) - The real deal
 - [Exceptionflug/protocolize](https://github.com/Exceptionflug/protocolize) - A lightweight BungeeCord / Velocity protocol framework supporting items
