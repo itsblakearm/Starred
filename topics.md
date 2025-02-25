@@ -180,6 +180,7 @@
 
 ## microsoft 
 
+- [microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell) - Microsoft Entra PowerShell
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## minecraft 
@@ -234,6 +235,7 @@
 
 ## powershell 
 
+- [microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell) - Microsoft Entra PowerShell
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
