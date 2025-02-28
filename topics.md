@@ -204,6 +204,7 @@
 
 ## others 
 
+- [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) - Bicep registry modules
 - [Azure/WindowsVMAgent](https://github.com/Azure/WindowsVMAgent) - 
 - [byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool) - 
 - [danielsollondon/azvmimagebuilder](https://github.com/danielsollondon/azvmimagebuilder) - Azure VM Image Builder
