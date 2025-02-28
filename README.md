@@ -6,6 +6,7 @@
 ## Contents
 
 - [Batchfile](#batchfile)
+- [Bicep](#bicep)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -25,6 +26,10 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
+
+## Bicep 
+
+- [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) - Bicep registry modules
 
 ## C 
 
