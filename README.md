@@ -110,7 +110,7 @@
 
 - [microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell) - Microsoft Entra PowerShell
 - [byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool) - 
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [danielsollondon/azvmimagebuilder](https://github.com/danielsollondon/azvmimagebuilder) - Azure VM Image Builder
 
 ## Python 
