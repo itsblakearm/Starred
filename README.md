@@ -62,7 +62,6 @@
 
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [nerdsinspace/nocomment-master](https://github.com/nerdsinspace/nocomment-master) - block game military grade radar
-- [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [AlessioDP/Parties](https://github.com/AlessioDP/Parties) - Party manager plugin for your Minecraft server!
 - [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies.
@@ -126,6 +125,7 @@
 
 ## Shell 
 
+- [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [PaperMC/Travertine](https://github.com/PaperMC/Travertine) - Waterfall with 1.7 support
 
 ## TypeScript 
