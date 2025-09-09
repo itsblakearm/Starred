@@ -11,6 +11,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [azure](#azure)
+- [beginner-project](#beginner-project)
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
@@ -69,6 +70,10 @@
 ## azure 
 
 - [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
+
+## beginner-project 
+
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## bot 
 
