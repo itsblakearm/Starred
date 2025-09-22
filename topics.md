@@ -40,6 +40,7 @@
 - [others](#others)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [programming-language](#programming-language)
 - [python](#python)
 - [reactjs](#reactjs)
 - [rust](#rust)
@@ -255,6 +256,10 @@
 ## privacy 
 
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+
+## programming-language 
+
+- [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## python 
 
