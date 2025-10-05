@@ -154,7 +154,6 @@
 - [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - A JVM library for all Twitch APIs, including Chat, Helix, and EventSub (webhook/websocket/conduit). It includes advanced features for large-scale apps such as connection pooling, rate-limiting, and mo
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [hyperadev/UltraStaffChat](https://github.com/hyperadev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
 - [discordjs/guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community.
 
