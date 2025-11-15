@@ -134,7 +134,7 @@
 - [devJimmyboy/Chatting](https://github.com/devJimmyboy/Chatting) - Twitch Chat App that focuses on easily sending messages.
 - [devJimmyboy/pokesmash](https://github.com/devJimmyboy/pokesmash) - Pokemon Smash or Pass - For Everyone, not just creators.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 
 
 ## License
