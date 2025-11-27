@@ -6,6 +6,7 @@
 ## Contents
 
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [api](#api)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -51,6 +52,10 @@
 - [zsh](#zsh)
 
 ## algorithm 
+
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+
+## algorithms 
 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 
