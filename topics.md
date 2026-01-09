@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
 - [api](#api)
@@ -30,6 +31,7 @@
 - [golang](#golang)
 - [gradle](#gradle)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [java](#java)
 - [javascript](#javascript)
 - [js](#js)
@@ -39,6 +41,7 @@
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [nodejs](#nodejs)
+- [open-source](#open-source)
 - [others](#others)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -47,9 +50,14 @@
 - [reactjs](#reactjs)
 - [rust](#rust)
 - [server](#server)
+- [tensorflow](#tensorflow)
 - [ui](#ui)
 - [windows](#windows)
 - [zsh](#zsh)
+
+## ai 
+
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
 ## algorithm 
 
@@ -149,6 +157,7 @@
 
 ## golang 
 
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -169,6 +178,10 @@
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [hyperadev/UltraStaffChat](https://github.com/hyperadev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
 - [discordjs/guide](https://github.com/discordjs/guide) - A prior iteration of the guide for discord.js, created and maintained by core members of its community.
+
+## home-assistant 
+
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
 ## java 
 
@@ -226,8 +239,13 @@
 
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 
+## open-source 
+
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+
 ## others 
 
+- [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [microsoft/secureboot_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
 - [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) - Bicep registry modules
 - [Azure/WindowsVMAgent](https://github.com/Azure/WindowsVMAgent) - 
@@ -269,6 +287,7 @@
 
 ## privacy 
 
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 
 ## programming-language 
@@ -293,6 +312,10 @@
 ## server 
 
 - [AlessioDP/Parties](https://github.com/AlessioDP/Parties) - Party manager plugin for your Minecraft server!
+
+## tensorflow 
+
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
 ## ui 
 
