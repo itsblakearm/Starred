@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
 - [C](#c)
@@ -21,6 +22,10 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+
+## Assembly 
+
+- [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 
 ## Batchfile 
 
@@ -53,6 +58,7 @@
 
 ## Go 
 
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [itsblakearm/Chatting](https://github.com/itsblakearm/Chatting) - A chat application made strictly from Go.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -132,6 +138,7 @@
 
 ## TypeScript 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [devJimmyboy/Chatting](https://github.com/devJimmyboy/Chatting) - Twitch Chat App that focuses on easily sending messages.
 - [devJimmyboy/pokesmash](https://github.com/devJimmyboy/pokesmash) - Pokemon Smash or Pass - For Everyone, not just creators.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
