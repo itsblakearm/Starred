@@ -89,6 +89,7 @@
 
 ## JavaScript 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
 - [twitchdev/channel-points-node-sample](https://github.com/twitchdev/channel-points-node-sample) - 
 - [twitchdev/authentication-node-sample](https://github.com/twitchdev/authentication-node-sample) - 
