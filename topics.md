@@ -177,7 +177,6 @@
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
 - [YouHaveTrouble/minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft server optimization guide
 - [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://modrinth.com/plugin/fastasyncworldedit
-- [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - A JVM library for all Twitch APIs, including Chat, Helix, and EventSub (webhook/websocket/conduit). It includes advanced features for large-scale apps such as connection pooling, rate-limiting, and mo
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [hyperadev/UltraStaffChat](https://github.com/hyperadev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
 - [discordjs/guide](https://github.com/discordjs/guide) - A prior iteration of the guide for discord.js, created and maintained by core members of its community.
