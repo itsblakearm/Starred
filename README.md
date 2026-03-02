@@ -123,7 +123,7 @@
 ## Python 
 
 - [microsoft/secureboot_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [areed1192/python-trading-robot](https://github.com/areed1192/python-trading-robot) - A trading robot, that can submit basic orders in an automated fashion using the TD API.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
