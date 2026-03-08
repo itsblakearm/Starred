@@ -47,6 +47,8 @@
 
 ## C++ 
 
+- [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) - Chat client for https://twitch.tv
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 
@@ -100,6 +102,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/MicroHack](https://github.com/microsoft/MicroHack) - This repository is the central repository for all MicroHacks from customers, partners or Microsoft.
 - [helium/HIP](https://github.com/helium/HIP) - Helium Improvement Proposals
 
 ## Others 
@@ -118,7 +121,7 @@
 - [rgl/packer-plugin-windows-update](https://github.com/rgl/packer-plugin-windows-update) - Packer plugin for installing Windows updates
 - [microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell) - Microsoft Entra PowerShell
 - [byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool) - 
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win1
 - [danielsollondon/azvmimagebuilder](https://github.com/danielsollondon/azvmimagebuilder) - Azure VM Image Builder
 
 ## Python 
@@ -141,6 +144,8 @@
 
 ## TypeScript 
 
+- [microsoft/vscode-azureresourcegroups](https://github.com/microsoft/vscode-azureresourcegroups) - VS Code extension for managing Azure resources.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [devJimmyboy/Chatting](https://github.com/devJimmyboy/Chatting) - Twitch Chat App that focuses on easily sending messages.
 - [devJimmyboy/pokesmash](https://github.com/devJimmyboy/pokesmash) - Pokemon Smash or Pass - For Everyone, not just creators.
