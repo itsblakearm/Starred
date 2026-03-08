@@ -19,16 +19,20 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [cli](#cli)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [cpp](#cpp)
+- [csharp](#csharp)
 - [design](#design)
 - [discord](#discord)
+- [electron](#electron)
 - [finance](#finance)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [gradle](#gradle)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
@@ -52,7 +56,10 @@
 - [rust](#rust)
 - [server](#server)
 - [tensorflow](#tensorflow)
+- [terminal](#terminal)
+- [typescript](#typescript)
 - [ui](#ui)
+- [visual-studio-code](#visual-studio-code)
 - [windows](#windows)
 - [zsh](#zsh)
 
@@ -87,6 +94,7 @@
 
 ## azure 
 
+- [microsoft/vscode-azureresourcegroups](https://github.com/microsoft/vscode-azureresourcegroups) - VS Code extension for managing Azure resources.
 - [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 
 ## bash 
@@ -113,9 +121,13 @@
 
 ## cli 
 
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win1
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
+
+## command-line 
+
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 ## compiler 
 
@@ -123,7 +135,12 @@
 
 ## cpp 
 
+- [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## csharp 
+
+- [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 
 ## design 
 
@@ -135,6 +152,10 @@
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [discordjs/guide](https://github.com/discordjs/guide) - A prior iteration of the guide for discord.js, created and maintained by core members of its community.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
+
+## electron 
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## finance 
 
@@ -165,6 +186,10 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
+## good-first-issue 
+
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
 ## gradle 
 
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
@@ -172,6 +197,7 @@
 
 ## hacktoberfest 
 
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
@@ -219,6 +245,7 @@
 
 ## microsoft 
 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell) - Microsoft Entra PowerShell
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
@@ -247,6 +274,7 @@
 
 ## others 
 
+- [microsoft/MicroHack](https://github.com/microsoft/MicroHack) - This repository is the central repository for all MicroHacks from customers, partners or Microsoft.
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [microsoft/secureboot_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
@@ -284,14 +312,14 @@
 
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell) - Microsoft Entra PowerShell
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win1
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 
 ## privacy 
 
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win1
 
 ## programming-language 
 
@@ -324,14 +352,28 @@
 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
+## terminal 
+
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+## typescript 
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
 ## ui 
 
 - [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
 
+## visual-studio-code 
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
 ## windows 
 
+- [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [rgl/packer-plugin-windows-update](https://github.com/rgl/packer-plugin-windows-update) - Packer plugin for installing Windows updates
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win1
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
