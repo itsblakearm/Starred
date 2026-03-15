@@ -275,6 +275,7 @@
 
 ## others 
 
+- [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - An open-source log viewer inspired by Microsoft's CMTrace.exe.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [microsoft/MicroHack](https://github.com/microsoft/MicroHack) - This repository is the central repository for all MicroHacks from customers, partners or Microsoft.
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
