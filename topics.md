@@ -275,6 +275,7 @@
 
 ## others 
 
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - An open-source log viewer inspired by Microsoft's CMTrace.exe.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [microsoft/MicroHack](https://github.com/microsoft/MicroHack) - This repository is the central repository for all MicroHacks from customers, partners or Microsoft.
