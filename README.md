@@ -13,6 +13,7 @@
 - [C++](#c++)
 - [Erlang](#erlang)
 - [Go](#go)
+- [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -67,6 +68,10 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
 - [golang/go](https://github.com/golang/go) - The Go programming language
+
+## HTML 
+
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 
 ## Java 
 
@@ -127,6 +132,8 @@
 
 ## Python 
 
+- [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP and Python Library
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [microsoft/secureboot_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
