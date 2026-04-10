@@ -44,11 +44,13 @@
 - [language](#language)
 - [linux](#linux)
 - [macos](#macos)
+- [markdown](#markdown)
 - [mcp](#mcp)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
+- [openai](#openai)
 - [others](#others)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -259,6 +261,10 @@
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 
+## markdown 
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+
 ## mcp 
 
 - [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP and Python Library
@@ -291,6 +297,10 @@
 ## open-source 
 
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+
+## openai 
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 ## others 
 
