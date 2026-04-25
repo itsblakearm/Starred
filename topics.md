@@ -312,6 +312,7 @@
 
 ## others 
 
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - An open-source log viewer inspired by Microsoft's CMTrace.exe.
