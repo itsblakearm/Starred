@@ -104,7 +104,7 @@
 
 ## api 
 
-- [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP and Python Library
+- [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP, CLI and Python Library
 - [twitch4j/twitch4j](https://github.com/twitch4j/twitch4j) - A JVM library for all Twitch APIs, including Chat, Helix, and EventSub (webhook/websocket/conduit). It includes advanced features for large-scale apps such as connection pooling, rate-limiting, and mo
 
 ## automation 
@@ -292,7 +292,7 @@
 
 ## mcp 
 
-- [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP and Python Library
+- [punitarani/fli](https://github.com/punitarani/fli) - Google Flights MCP, CLI and Python Library
 
 ## microsoft 
 
