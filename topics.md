@@ -24,6 +24,7 @@
 - [chatgpt](#chatgpt)
 - [claude-code](#claude-code)
 - [cli](#cli)
+- [cloud](#cloud)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [cpp](#cpp)
@@ -61,9 +62,11 @@
 - [programming-language](#programming-language)
 - [prompt-engineering](#prompt-engineering)
 - [python](#python)
+- [raspberry-pi](#raspberry-pi)
 - [reactjs](#reactjs)
 - [rust](#rust)
 - [server](#server)
+- [shell](#shell)
 - [swift](#swift)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -161,6 +164,10 @@
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
+
+## cloud 
+
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
 ## command-line 
 
@@ -398,6 +405,10 @@
 - [areed1192/python-trading-robot](https://github.com/areed1192/python-trading-robot) - A trading robot, that can submit basic orders in an automated fashion using the TD API.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
+## raspberry-pi 
+
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+
 ## reactjs 
 
 - [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
@@ -410,6 +421,10 @@
 ## server 
 
 - [AlessioDP/Parties](https://github.com/AlessioDP/Parties) - Party manager plugin for your Minecraft server!
+
+## shell 
+
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
 ## swift 
 
