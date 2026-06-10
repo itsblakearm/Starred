@@ -155,6 +155,7 @@
 
 ## Shell 
 
+- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [PaperMC/Travertine](https://github.com/PaperMC/Travertine) - Waterfall with 1.7 support
 
