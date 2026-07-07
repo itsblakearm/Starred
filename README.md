@@ -76,6 +76,7 @@
 
 ## Java 
 
+- [JarvisAntiVPN/jarvisguard](https://github.com/JarvisAntiVPN/jarvisguard) - The anti-VPN built to not block your real players
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [nerdsinspace/nocomment-master](https://github.com/nerdsinspace/nocomment-master) - block game military grade radar
 - [EssentialsX/Essentials](https://github.com/EssentialsX/Essentials) - The modern Essentials suite for Spigot and Paper.
