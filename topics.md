@@ -47,6 +47,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [js](#js)
+- [kubernetes](#kubernetes)
 - [language](#language)
 - [linux](#linux)
 - [llm](#llm)
@@ -231,6 +232,7 @@
 
 ## go 
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## golang 
@@ -285,6 +287,10 @@
 ## js 
 
 - [discordjs/guide](https://github.com/discordjs/guide) - A prior iteration of the guide for discord.js, created and maintained by core members of its community.
+
+## kubernetes 
+
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 
 ## language 
 
