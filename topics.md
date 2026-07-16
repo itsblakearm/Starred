@@ -355,6 +355,7 @@
 
 ## others 
 
+- [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [JarvisAntiVPN/jarvisguard](https://github.com/JarvisAntiVPN/jarvisguard) - The anti-VPN built to not block your real players
 - [SouthpawIN/evolutionary-model-merging](https://github.com/SouthpawIN/evolutionary-model-merging) - Training-free weight-space recombination of LLMs using evolutionary algorithms. Implements the Darwin Family paper (arXiv:2605.14386) methodology.
 - [Azure-Samples/azure-files-samples](https://github.com/Azure-Samples/azure-files-samples) - This repository contains supporting code (PowerShell modules/scripts, ARM templates, etc.) for deploying, configuring, and using Azure Files.
