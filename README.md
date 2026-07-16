@@ -149,6 +149,7 @@
 
 ## Rust 
 
+- [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - An open-source log viewer inspired by Microsoft's CMTrace.exe.
