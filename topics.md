@@ -44,6 +44,7 @@
 - [gradle](#gradle)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
+- [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
 - [js](#js)
@@ -56,6 +57,7 @@
 - [mcp](#mcp)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
+- [monitoring](#monitoring)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -68,8 +70,10 @@
 - [raspberry-pi](#raspberry-pi)
 - [reactjs](#reactjs)
 - [rust](#rust)
+- [security](#security)
 - [server](#server)
 - [shell](#shell)
+- [sql](#sql)
 - [swift](#swift)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -254,6 +258,7 @@
 
 ## hacktoberfest 
 
+- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
@@ -268,6 +273,10 @@
 ## home-assistant 
 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+
+## ios 
+
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 
 ## java 
 
@@ -299,6 +308,7 @@
 
 ## linux 
 
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 
 ## llm 
@@ -307,6 +317,7 @@
 
 ## macos 
 
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 
@@ -340,12 +351,17 @@
 - [hyperadev/UltraStaffChat](https://github.com/hyperadev/UltraStaffChat) - A fully customisable staff communication plugin for BungeeCord!
 - [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms) - A permissions plugin for Minecraft servers.
 
+## monitoring 
+
+- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+
 ## nodejs 
 
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 
 ## open-source 
 
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 
 ## openai 
@@ -400,6 +416,7 @@
 
 ## powershell 
 
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell) - Microsoft Entra PowerShell
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
@@ -438,6 +455,11 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
+## security 
+
+- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
+
 ## server 
 
 - [AlessioDP/Parties](https://github.com/AlessioDP/Parties) - Party manager plugin for your Minecraft server!
@@ -445,6 +467,10 @@
 ## shell 
 
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+
+## sql 
+
+- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 
 ## swift 
 
