@@ -22,6 +22,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Text](#text)
 - [TypeScript](#typescript)
 
 ## Assembly 
@@ -164,6 +165,10 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
 - [PaperMC/Travertine](https://github.com/PaperMC/Travertine) - Waterfall with 1.7 support
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
