@@ -53,6 +53,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mcp](#mcp)
 - [microsoft](#microsoft)
@@ -62,6 +63,7 @@
 - [open-source](#open-source)
 - [openai](#openai)
 - [others](#others)
+- [phishing](#phishing)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [programming-language](#programming-language)
@@ -321,6 +323,10 @@
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 
+## malware 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
 ## markdown 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -414,6 +420,10 @@
 - [gronnmann/CoinFlipper](https://github.com/gronnmann/CoinFlipper) - 50/50 chance. Winner takes everything. Do you dare?
 - [CheatBreaker/CheatBreakerAPI](https://github.com/CheatBreaker/CheatBreakerAPI) - An internal first iteration of the CheatBreaker Bukkit API. This API was used for many CheatBreaker features on MineHQ/Ultra, such as teammate waypoint markers, voice chat, the enabling/disabling of s
 
+## phishing 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
 ## powershell 
 
 - [jorgeasaurus/IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) - Quick way to import starter configs into Intune
@@ -426,6 +436,7 @@
 
 ## privacy 
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 
