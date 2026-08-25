@@ -64,6 +64,7 @@
 - [openai](#openai)
 - [others](#others)
 - [phishing](#phishing)
+- [portfolio](#portfolio)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [programming-language](#programming-language)
@@ -423,6 +424,10 @@
 ## phishing 
 
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
+## portfolio 
+
+- [areed1192/python-trading-robot](https://github.com/areed1192/python-trading-robot) - A trading robot, that can submit basic orders in an automated fashion using the TD API.
 
 ## powershell 
 
