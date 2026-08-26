@@ -261,6 +261,7 @@
 
 ## hacktoberfest 
 
+- [lamoreauxlab/srpenergy-api-client-python](https://github.com/lamoreauxlab/srpenergy-api-client-python) - Lamoreaux Lab Srp Energy Developer APIs - Python
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
