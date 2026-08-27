@@ -33,6 +33,7 @@
 - [csharp](#csharp)
 - [design](#design)
 - [discord](#discord)
+- [docker](#docker)
 - [electron](#electron)
 - [finance](#finance)
 - [git](#git)
@@ -216,6 +217,10 @@
 - [discordjs/guide](https://github.com/discordjs/guide) - A prior iteration of the guide for discord.js, created and maintained by core members of its community.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 
+## docker 
+
+- [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
+
 ## electron 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -276,6 +281,7 @@
 
 ## home-assistant 
 
+- [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 
 ## ios 
