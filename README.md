@@ -141,6 +141,7 @@
 
 ## Python 
 
+- [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
 - [lamoreauxlab/srpenergy-api-client-python](https://github.com/lamoreauxlab/srpenergy-api-client-python) - Lamoreaux Lab Srp Energy Developer APIs - Python
 - [SouthpawIN/evolutionary-model-merging](https://github.com/SouthpawIN/evolutionary-model-merging) - Training-free weight-space recombination of LLMs using evolutionary algorithms. Implements the Darwin Family paper (arXiv:2605.14386) methodology.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
