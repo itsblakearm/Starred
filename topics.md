@@ -82,6 +82,7 @@
 - [swift](#swift)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [testing](#testing)
 - [typescript](#typescript)
 - [ui](#ui)
 - [visual-studio-code](#visual-studio-code)
@@ -445,6 +446,7 @@
 
 ## powershell 
 
+- [pester/Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
 - [jorgeasaurus/IntuneHydrationKit](https://github.com/jorgeasaurus/IntuneHydrationKit) - Quick way to import starter configs into Intune
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -515,6 +517,10 @@
 ## terminal 
 
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+## testing 
+
+- [pester/Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
 
 ## typescript 
 
