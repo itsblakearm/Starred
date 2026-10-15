@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [teslamotors/fleet-telemetry](https://github.com/teslamotors/fleet-telemetry) - 
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
