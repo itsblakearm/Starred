@@ -393,6 +393,7 @@
 
 ## others 
 
+- [microsoft/mxc](https://github.com/microsoft/mxc) - Policy-driven, layered isolation and containment
 - [teslamotors/fleet-telemetry](https://github.com/teslamotors/fleet-telemetry) - 
 - [DrazenNikolic/AVD-Golden-Image-Optimizer](https://github.com/DrazenNikolic/AVD-Golden-Image-Optimizer) - A professional engineering framework for Azure Virtual Desktop. Optimized for high-performance VM families (E, D, F, N-series).  This script addresses 24H2-specific kernel behaviors, RDP Shortpath pre
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
