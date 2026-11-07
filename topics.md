@@ -86,6 +86,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [visual-studio-code](#visual-studio-code)
+- [vscode](#vscode)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [zsh](#zsh)
@@ -535,6 +536,10 @@
 ## visual-studio-code 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## vscode 
+
+- [microsoft/vscode-azureresourcegroups](https://github.com/microsoft/vscode-azureresourcegroups) - VS Code extension for managing Azure resources.
 
 ## windows 
 
