@@ -419,7 +419,7 @@
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [microsoft/secureboot_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
-- [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) - Bicep registry modules
+- [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) - Azure Verified Modules (AVM) Bicep Monorepo
 - [Azure/WindowsVMAgent](https://github.com/Azure/WindowsVMAgent) - 
 - [byteben/Win32App-Migration-Tool](https://github.com/byteben/Win32App-Migration-Tool) - 
 - [danielsollondon/azvmimagebuilder](https://github.com/danielsollondon/azvmimagebuilder) - Azure VM Image Builder
